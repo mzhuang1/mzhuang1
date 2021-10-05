@@ -14,36 +14,29 @@
 
 ## Quanta Technology LLC （ Mar. 2020 ~ Present ）
 
-### PR Power Outage Prediction Tools Development  
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Power Outage Tools](https://guides.github.com/features/mastering-markdown/)
+#### 	Lead development of end-to-end Deep Learning & Machine Learning model, data product, and Dashboard.
+####  Present data driven results to improve decision, add business value to services, and contribute to the advancement of ideas into the marketplace & smart grid to boost yearly revenue by $650,000. 
+####  Worked with other teams to identify problems in different areas where data mining /machine learning/statistics can help, preparation of reports, proposals, presentations and paper, participation in internal and externa conference calls and meetings. 
+####  Hight Project 
+- PR Power Outage Prediction Tools Development  
+- Distribution Dashboard Development (Power Planning and DER )   
+- Machine Learning Model for Load Pattern Identification and DER Adoption Foreasting  
 
-### Distribution Dashboard Development (Power Planning and DER )   
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Dashboard ](https://guides.github.com/features/mastering-markdown/)
-
-
-### Machine Learning Model for Load Pattern Identification and DER Adoption Foreasting 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Models](https://guides.github.com/features/mastering-markdown/)
-
-  
 ## Illinois Institute Technology （ Aug. 2014 ~ Mar. 2020 ）
 
-### Deep Reinforcement Learning in Demand Side Management  
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Deep Reinforcement Model](https://guides.github.com/features/mastering-markdown/)
-
-
-### Scalable Load Disaggregation System Prototype Development and Deployment 
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Prototype](https://guides.github.com/features/mastering-markdown/)
-
-
-### Deep Generative Model in Load Disaggregation
-
-我在此项目负责了哪些工作，分别在哪些地方做得出色/和别人不一样/成长快，这个项目中，我最困难的问题是什么，我采取了什么措施，最后结果如何。这个项目中，我最自豪的技术细节是什么，为什么，实施前和实施后的数据对比如何，同事和领导对此的反应如何。[Model Results](https://guides.github.com/features/mastering-markdown/)
+####  Proposed scalable machine learning framework for Non-Intrusive Load Monitoring towards sustainable energy conservation.
+####  Developed robust load disaggregation algorithms and scalable AIoT system with Django Framework. 
+####  Implemented pilot research and scalable business values evaluations in 100+ real residential, business building and industrial environments, which save energy up to 7%.    
+####  Highlight Project
+- Machine Leanring for Sustainable Energy[Post](https://github.com/mzhuang1/Project_University.git)
+- Scalable Load Disaggregation System Prototype Development and Deployment 
+- Deep Generative Model in Load Disaggregation
 
 # OPEN SOURCE PROJECTS 
 
-- [Scalable Non-Intrusive Load Monitoring](https://blog.csdn.net/qing_gee/article/details/104323806)
-- [Smart Meter Data Mining](https://blog.csdn.net/qing_gee/article/details/104774776) 
-- [NILM Prototype](https://blog.csdn.net/qing_gee/article/details/104323806)  
+- [Scalable Non-Intrusive Load Monitoring](https://github.com/mzhuang1/Project_University.git)
+- [Smart Meter Data Mining](https://github.com/mzhuang1/Project_University.git) 
+- [NILM Prototype](https://github.com/mzhuang1/Project_University.git)  
 
 # EDUCATION
 
@@ -67,21 +60,19 @@
 
 # SELECTED PUBLICATIONS
 
-[1] Meng Tang, Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “Implementing Event-based Non-Intrusive Energy Information System: An Industrial Kitchen Case Study” Journal of Modern Power Systems and Clean Energy: https://github.com/pages-themes/minimal (Conditionally Accepted 2020) 
+[1] Meng Tang, Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “Implementing Event-based Non-Intrusive Energy Information System: An Industrial Kitchen Case Study” Journal of Modern Power Systems and Clean Energy(Conditionally Accepted 2020) 
 
-<br>[2] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, Hulian Liu, Wenwei Yang, Pei Liu “One Sustainable Energy Conservation Strategy Framework with Deep Reinforcement Learning”  Journal of Modern Power Systems and Clean Energy: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ (Conditionally Accepted 2020)
+<br>[2] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, Hulian Liu, Wenwei Yang, Pei Liu “One Sustainable Energy Conservation Strategy Framework with Deep Reinforcement Learning”  Journal of Modern Power Systems and Clean Energy(Conditionally Accepted 2020)
 
-<br>[3] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “An Overview of Non-Intrusive Load Monitoring: Approaches, Business Applications, and Challenges,” Proceedings of 2018 International Conference on Power System Technology (2018) 2018:4291-4299: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm 
+<br>[3] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “An Overview of Non-Intrusive Load Monitoring: Approaches, Business Applications, and Challenges,” Proceedings of 2018 International Conference on Power System Technology (2018) 2018:4291-4299: https://ieeexplore.ieee.org/abstract/document/8601534 
 
-<br>[4] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “Modeling of Proactive Demand Response with Time of Use Price Using Deep Reinforcement Learning” (To submit on) IEEE Transaction on Smart Grid: https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ 
+<br>[4] Zhuang Mengmeng, Mohammad Shahidehpour, Zuyi Li, “Modeling of Proactive Demand Response with Time of Use Price Using Deep Reinforcement Learning” (To submit on) IEEE Transaction on Smart Grid 
 
-<br>[5] Zhuang Mengmeng, Andrija Sadikovic, Hiva Nasiri, Mohammad Shahidehpour, Zuyi Li, “Innovative Electricity Shared Economy Framework in MGs with Deep Reinforcement Learning” (Invited Paper2020) Journal of Electricity: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm 
+<br>[5] David Ehrlich, Xiaolong Wang, Sina Seyed Navabi, Zhuang Mengmeng, “ Customer Electricity Efficiency Programs: Government & Utility Policies based on Individual Program Performance ,” [J] Energy Policy (Under Revising Status)
 
-<br>[6] David Ehrlich, Xiaolong Wang, Sina Seyed Navabi, Zhuang Mengmeng, “ Customer Electricity Efficiency Programs: Government & Utility Policies based on Individual Program Performance ,” [J] Energy Policy (Under Revising Status): https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ 
+<br>[6] Zhuang Mengmeng, Liu Jie, Yu Jing, “Research on Growth and Control methods for PM2.5 Agglomerated Particles in ESPs,” Proceedings of 15th Conference of ESP in China in 2013:103-108: https://en.cnki.com.cn/Article_en/CJFDTotal-JDGC201106018.htm
 
-<br>[7] Zhuang Mengmeng, Liu Jie, Yu Jing, “Research on Growth and Control methods for PM2.5 Agglomerated Particles in ESPs,” Proceedings of 15th Conference of ESP in China in 2013:103-108: https://www.freepik.com/free-vector/set-elements-infographic_2807573.htm 
-
-<br>[8] Zhuang Mengmeng, Kong Chunlin, Zhu Jibao, et al. “Design and Research on Testing Apparatus of Current Density of ESP,” Mechanical Engineer, 2013(03):31-32. : https://pixabay.com/photos/man-male-adult-person-caucasian-1209494/ 
+<br>[8] Zhuang Mengmeng, Kong Chunlin, Zhu Jibao, et al. “Design and Research on Testing Apparatus of Current Density of ESP,” Mechanical Engineer, 2013(03):31-32. : https://en.cnki.com.cn/Article_en/CJFDTotal-JDGC201104031.htm 
 
 # SELECTED PATENTS
 
@@ -122,8 +113,4 @@
 # ACKNOWLEDGE
 Thank you for taking the time to read my resume and look forward to having the opportunity to work with you
 
-More information about my data science portfolio,see this [GitHub](https://guides.github.com/features/mastering-markdown/).
-<img src="images/demo.gif?raw=true"/>
-
-[Link](url) and ![Image](src)
-___
+More information about my data science portfolio,see this [GitHub](https://github.com/mzhuang1/Project_University.git).
