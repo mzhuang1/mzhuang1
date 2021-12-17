@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 # Ms.Mengmeng ZHUANG Ph.D----Data Scientist                     
-mzhuang1@hawk.iit.edu || Github: https://github.com/mzhuang1
+Github: https://github.com/mzhuang1
  
 # KEY COMPETENCIES AND STRENGTHS   
 
