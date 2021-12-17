@@ -1,7 +1,7 @@
 ### Hi Everyone 👋
 
 # Ms.Mengmeng ZHUANG Ph.D----Data Scientist                     
- Great Chicago Area, IL 60181 || 312-451-8328 || mzhuang1@hawk.iit.edu || Github: https://github.com/mzhuang1
+mzhuang1@hawk.iit.edu || Github: https://github.com/mzhuang1
  
 # KEY COMPETENCIES AND STRENGTHS   
 
